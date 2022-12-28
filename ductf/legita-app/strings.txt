@@ -1,0 +1,2121 @@
+!This program cannot be run in DOS mode.
+.o&a.v^
+.Richf^
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+\$0H
+\$0H
+T$ H
+@USVWATAVAWH
+A'H;
+A_A^A\_^[]
+\$0H
+\$0H
+\$0H
+UWAVH
+A^_]
+t/fff
+l$8H
+\$0H
+t$@H
+t/fff
+l$8H
+\$0H
+t$@H
+t$0H
+t$0H
+\$8H
+t$0H
+t$0H
+\$8H
+T$HH
+T$HH
+D$ H
+L$@H
+L$PA
+@SVWH
+l$pH
+t$HE3
+|$@A
+L$0A
+D$xH
+T$xL
+t$0H
+|$@L
+t$HH
+l$pH
+P_^[
+D$0A
+D$ H
+L$0H3
+@SVWAVH
+D$0H
+|$@E3
+D$ L
+|$ H
+T$(H
+|$@H
+L$0H3
+HA^_^[
+\$0H
+)t$`H
+D$PH
+L$ A
+D$0H
+D$@H
+D$0I
+t$ L
+D$0H
+T$ H
+T$HH
+L$0H
+L$PH3
+(t$`H
+\$0H
+t$ AVH
+|$@H
+T$ H
+\$HH
+l$PH
+t$XH
+0A^H
+UVWATAUAVAWH
+D$ (
+4PfD
+d$ L
+4PfD
+d$ L
+	r6H
+D$ 	
+T$ H
+4CfD
+d$ L
+l$@H
+D$8D
+l$0fD
+d$(L
+l$ A
+A_A^A]A\_^]
+UVWATAUAVAWH
+C]PH
+CEpH
+}@I;
+CUpH
+|$ H
+CE0L
+A'H;
+t5I;
+E@L+
+H9M@
+CE0H
+t2L9E`r,H
+CUpH
+L$0H
+t$ E3
+A_A^A]A\_^]
+\$0H
+|$ UATAUAVAWH
+A'H;
+A'H;
+M'H3
+A_A^A]A\]
+I9Khs
+CXHc
+t$ I
+|$ AV
+H9Qhs
+L$0L
+CXHc
+t$ H
+|$(I
+QPLc
+QhI;
+v?fD;
+fA;P
+t$ WATAWH
+u	E3
+t)L;
+ r7H
+\$HH
+l$PH
+t$XH
+ A_A\_
+t$@I
+CXH+
+AXHc
+APHc
+\$ VAVAWH
+d$PA
+l$@H
+|$HI
+N@H;
+FXH+
+N@Hc
+|$HH
+l$@L
+d$PL+
+\$XI
+ A_A^^
+\$ VAVAWH
+d$PA
+l$@H
+|$HI
+V8H;
+FPH+
+N8Hc
+|$HH
+l$@L
+d$PL+
+\$XI
+ A_A^^
+L$ H
+SUVWAVH
+|$hH
+\$XH
+t$XH
+ A^_^][
+t$@H
+|$HH
+|$HH
+t$@H
+t$@H
+|$HH
+|$HH
+t$@H
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+AXHc
+APHc
+|$ ATAVAWH
+\$@H
+|$XH
+l$HH
+t$PH
+ A_A^A\
+A'H;
+A'H;
+VWAWH
+t$@H
+H'H;
+t$@H
+l$PH
+\$HH
+ A__^
+\$@H
+\$@H
+t$HH
+t$ H
+t$HH
+GXE3
+\$0H
+VWAVH
+\$(H
+\$`I
+A^_^
+@VWAUAVH
+\$PE3
+l$XH
+d$`L
+|$ M
+A'H;
+D$pO
+d$`H
+l$XH
+\$PL
+|$ H
+(A^A]_^
+@SVATAVH
+l$PI
+|$XH
+l$`H
+|$ H;
+H'H;
+l$pM
+l$`H
+|$XH
+l$PL
+|$ H
+(A^A\^[
+\$ UVWH
+t$PH
+H9=I
+\$PH
+\$@H
+\$XH
+ _^]
+SVWATAUAVAWH
+L$(H
+L1HH
+L1HH
+\1HH
+l$(E
+L)HH
+pA_A^A]A\_^[
+	HcQ
+H9JH
+T$ H
+\$8H
+@SVAVAWH
+l$PH
+|$XL
+d$`M
+l$ H
+A'H;
+<>fE
+<>fE
+d$`H
+|$XH
+l$PL
+l$ H
+(A_A^^[
+\$(H
+\$8H
+\$(H
+T$(H
+L$(H
+CL$(
+T$ H
+L$hL
+\$HH
+\$XH
+T$HH
+CT$HH
+T$`H
+L$HH
+T$@H
+L$(H
+M`H3
+d$ UAVAWH
+\$pI
+A_A^]
+L$ H
+\$@H
+D$PE3
+|$ H
+|$8H
+\$@H
+L$ H
+\$@H
+D$PE3
+|$ H
+|$8H
+\$@H
+L$ SVWATAUAVAWH
+l$0I
+d$(H
+D$83
+O'H;
+\$8H
+t$HL
+\$8I
+d$(H
+d$ E3
+t;H+
+PA_A^A]A\_^[
+@USVWAVH
+A'H;
+pA^_^[]
+\$ VWAVH
+D$@E3
+t$ L
+t$0L
+fF94Bu
+L$ H
+T$8H
+L$ r
+D$ H
+fD94_u
+\t0H;
+L$@H3
+PA^_^
+@SWH
+<@\I
+|$ E3
+t$PH;
+l$@L
+t$HH
+A'H;
+t$HH
+l$@L
+t$PL
+|$ H
+|$ UH
+\u)H
+<A\u
+}'Lc
+M?H;
+MGH3
+D$(H
+T$ H
+UWAVH
+A^_]
+D$@H
+L$ H
+L$0H
+L$ H
+T$ H
+D$ H;
+T$ H
+CT$ L
+D$0H
+D$ H
+CD$ H
+T$8H
+L$ H
+L$@H3
+\$pH
+L$ D
+T$0H
+H;\$0t3
+?"t!H
+\$@H
+\$@2
+UVWAVAWH
+D$XL
+|$0E
+|$8L
+|$HH
+|$8E
+t$8H
+L$8L
+D$PI
+D$8H
+T$HH
+\$8H
+t*H+
+D$PH
+T$HH
+L$8L
+L$8I
+T$ H
+T$PH
+L$8H
+L$XH3
+`A_A^_^]
+t$ WAVAWH
+D$`H
+L$8E3
+|$0L
+L$@H
+|$@H
+t$XH
+T$PH;
+T$ H
+t$XH
+|$@H
+L$`H3
+\$pI
+A_A^_
+t$0H
+A'H;
+t$0H
+\$8H
+l$@H
+SVWATAUAVAWH
+N'I;
+|$ 3
+D$ 3
+\$ L
+|$(L
+|$pI
+l$pH
+L$xH;
+|$pM
+0A_A^A]A\_^[
+t$0H
+t$0H
+\$8H
+WATAUAVAWH
+t$pE3
+,>H;
+A'H;
+T$xO
+\$PH
+t$`fD
+l$XH
+ A_A^A]A\_
+L$ SUVWH
+l$xH
+l$(L
+8_^][
+\$0H
+s WATAUAVAWH
+L$03
+l$`E3
+l$@H
+l$PL
+|$Xf
+l$@E3
+d$@H
+|$@H
+D$XH
+D$ H
+t$PH
+A'H;
+d$`H
+\$`L
+l$xI
+t$pH
+A'H;
+T$ H
+A_A^A]A\_
+s WATAUAVAWH
+L$03
+|$`E3
+|$@H
+|$PH
+l$Xf
+|$@E3
+d$@L
+t$@H
+D$XH
+D$ H
+|$PI
+A'H;
+d$`H
+t$`L
+l$xI
+|$pI
+A'H;
+T$ H
+A_A^A]A\_
+\$ UVWAVAWH
+D$pM
+L$(E3
+|$ L
+8.tvI
+|$0L
+|$@H
+|$0I;
+\$@H
+|$PL
+|$`H
+A'H;
+\$@H
+t$HH
+|$0H
+T$hH
+L$PH
+T$HH
+L$0H
+L$pH3
+A_A^_^]
+UVWATAUAVAWH
+HfA9
+<H.H
+H9r @
+A_A^A]A\_^]
+-u]H
+9wJH
+80u#H
+t$ WAVAWH
+D$@H
+|$ H
+|$0H;
+L$ H
+t$0L
+L$ H
+A'H;
+\$8H
+t$0L
+|$ @
+L$@H3
+\$PI
+A_A^_
+UVWATAUAVAWH
+T$8H
+d$(H
+>.t3H
+M H3
+A_A^A]A\_^]
+d$0L
+d$HL
+d$XH
+d$HL
+\$HH
+C\$HD
+T$(H
+D$0H;\$(
+T$`H
+L$HH
+d$4L
+d$HL
+d$XH
+d$HL
+T$4H
+T$`H
+L$HH
+d$ H
+t$HL
+t$XfD
+t$HH;
+D$(H
+t$XH
+O'I;
+t$XL
+l$`H
+T$(I
+t$HL
+l$8H
+T$ H
+T$`H
+L$HH
+L$ D
+T$0H
+D$HH
+D$Xf
+D$HH;
+D$(,
+T$ H
+T$`H
+L$HH
+T$HH
+T$XH
+T$HI;
+D$(H
+L$@H
+D$XH
+A'H;
+D$XH
+\$`H
+T$@I
+d$HH
+T$`H
+L$HH
+d$hL
+d$xH
+d$hI
+d$HH
+t$XH
+O'I;
+t$XL
+l$`H
+|$HH
+L$hH
+L$xH
+T$hH
+L$hH
+d$xH
+d$hH
+\$0H
+UVWH
+l$HH
+\$PH
+|$PH
+\$XH
+ _^]
+SVWATAUAVAWH
+L$`L
+|$xI
+l$PL
+L95v
+T$pH
+|$PH
+D$XA
+(D$Pf
+D$pH
+L$(f
+T$ L
+D$pH
+T$PH
+A_A^A]A\_^[
+@SVWH
+)D$@
+D$@H
+L$0H
+D$(H
+L$ H
+UVWATAUAVAWH
+K2H;
+t$ D
+L$0H
+D$ M
+A_A^A]A\_^]
+UVWATAUAVAWH
+K2H;
+t$ D
+L$0H
+D$ M
+A_A^A]A\_^]
+@SVWH
+D$QH
+D$P%A
+)D$@
+D$QH
+L$RH
+D$QH
+L$`D
+D$@H
+L$0H
+D$(H
+L$ H
+@SVWH
+D$QH
+D$P%A
+)D$@
+D$QH
+L$RH
+D$QH
+L$`D
+D$@H
+L$0H
+D$(H
+L$ H
+@SVWH
+D$QH
+D$P%A
+)D$@
+D$QH
+L$RH
+D$QH
+L$`D
+D$@H
+L$0H
+D$(H
+L$ H
+@SVWH
+D$QH
+D$P%A
+)D$@
+D$QH
+L$RH
+D$QH
+L$`D
+D$@H
+L$0H
+D$(H
+L$ H
+@USVWATAUAVAWH
+D$(fD
+|$ L
+|$(L
+A_A^A]A\_^[]
+t$ WATAWH
+t$@H
+A'H;
+t$@H
+\$HH
+l$PH
+t$XH
+ A_A\_
+UVWATAUAVAWH
+<&0u
+|$(H
+C@H98t"H
+<HL+
+A_A^A]A\_^]
+UVWATAUAVAWH
+D|$0H
+|$(H
+)D$0
+(D$03
+)D$0L
+C@H98t"H
+(D$0
+)D$0H
+(D$0H
+)D$0L
+(D$0H
+)D$0H
+<HL+
+(D$0H
+)D$0H
+(D$0H
+A_A^A]A\_^]
+\$0H
+\$ H
+VWATAVAWH
+	HcA
+\0(H
+t$ H
+T0HH
+D0PH
+@tvH
+D1XH
+L1HH
+L1HH
+D1XH
+L1HH
+|$ H
+L9HH
+pA_A^A\_^
+\$ UVWH
+t$PH
+\$PH
+\$@H
+\$XH
+ _^]
+@UWAVAWH
+\$PH
+t$XI
+d$`H
+l$ L
+A'H;
+L$pM
+D$xI
+L$pM
+D$xI
+d$`H
+t$XH
+\$PL
+l$ H
+(A_A^_]
+@SVAUAVH
+l$PH
+|$XL
+d$`L
+|$ M
+H'H;
+d$pM
+d$`H
+|$XH
+l$PL
+|$ H
+(A^A]^[
+t$ UWAVH
+A^_]
+UWAVH
+A^_]
+|$ UATAUAVAWH
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+M/H3
+A_A^A]A\]
+SVWATAUAVAWH
+	HcA
+\0(H
+t$(J
+T0HH
+D0PH
+D1XJ
+L1HH
+D1XJ
+L1HH
+L1HH
+d$(I
+$HcH
+L!HH
+pA_A^A]A\_^[
+t$ UWAVH
+t$ L
+t$ L
+\$`I
+A^_]
+\t1f
+/t+I
+:u.H
+D$HH
+|$(H
+|$8H
+<eu?H
+T$(H
+D$(H;
+T$(H
+CT$(L
+D$8H
+T$@H
+L$(H
+L$HH3
+\$hH
+\$ UVWATAUAVAWH
+D$8H
+T$0L
+\$HH
+\$XH
+T$HH
+L9t$XL
+BD$XH
+T$HH
+CT$HH
+t L+
+D$XI;
+D$HL
+l$HL
+d$`I
+L$@I
+A'H;
+T$@I
+L$XI
+d$HL
+t$HL
+l$`I
+\$XL
+N'H;
+d$8H
+t$0H
+\$hH
+\$xH
+L$xH
+L$xH
+|$xH
+\$hH
+C\$hH
+D$h3
+l$`L
+L$hH
+\$xH
+\$hH
+MHH3
+A_A^A]A\_^]
+|$ UATAUAVAWH
+A'H;
+M/H3
+A_A^A]A\]
+UWAUAVAWH
+<eu?H
+D$ A
+D$0L
+l$(L
+l$ A
+O'H;
+D$0L
+|$(L
+l$ A
+tWL+
+M/H3
+A_A^A]_]
+t$ WH
+L$(3
+l$ H
+|$ 3
+D$T;
+9|$X
+G|$X
+l$0H
+l$@H
+l$0H
+T$0H
+T$HH
+L$0H
+t$ AVH
+l$@H
+t$HH
+|$8H
+\$0H
+|$8H
+l$@H
+t$HH
+UWAVH
+D$P3
+A^_]
+D$0L
+D$@H
+D$0H
+T$@fD
+T$@A
+|$0H
+D$ L
+D$0H
+CD$0H
+T$HH
+L$0H
+D$@M;
+|$0L
+\$0H
+r?w=L
+L$0H
+D$@N
+D$HH
+|$@H
+t$0L
+D$HH
+D$@N
+T$0H
+L$HH
+L$0H
+t$0H
+D$HH
+L$0H
+CL$0L
+D$x3
+D$0H;
+T$0H
+CT$0L
+D$@H
+UVWATAUAVAWH
+\$HL
+D$8L
+L$PH
+T$8I
+T$8I
+\$HH
+D$8L
+D$8L
+L$PI
+\t?f
+/t9H
+D$8I
+:uEH
+D$8I
+\t%f
+D$8I
+/u	H
+L$PH
+\$HL
+D$83
+D$XH
+D$hH
+D$pH
+t$8I
+D$XH
+A'H;
+D$XL
+|$pH
+\$hI
+L$XH
+CL$X3
+t$(H
+t$ E3
+D$0H
+t$xH
+t$xH
+D$xH
+|$xL
+D$xI
+t$xI
+A'H;
+D$xH
+|$xH
+\$0I
+T$pH
+L$XH
+t$hH
+t$XH
+T$PH
+L$8H
+A_A^A]A\_^]
+D$ I
+@WAVAWH
+\$PJ
+l$XI
+t$`I
+t$`I
+l$XH
+\$PH
+0A_A^_
+t$(I
+0A_A^_
+@VWAVH
+\$@H
+l$HH
+|$PM
+A'H;
+D$hN
+T$`H
+l$HH
+\$@L
+|$PH
+ A^_^
+@UWAVAWH
+\$PH
+t$XI
+d$`H
+l$ E3
+A'H;
+D$pH
+D$pH
+d$`H
+t$XH
+\$PL
+l$ H
+(A_A^_]
+UVWATAUAVAWH
+M@E3
+l$ H
+D$(L
+l$8L
+L$(H
+t$(I
+|$0M;
+T$8I+
+A_A^A]A\_^]
+]`fD
+D$xH
+D$pH
+CUHH
+T$8I+
+T$8I+
+\$ UVWATAUAVAWH
+l$0L
+M9,$vTL
+l$8L
+l$HH
+l$8E
+t$0L
+T$8H
+T$PH
+L$8H
+A_A^A]A\_^]
+l$XL
+l$hH
+l$XL
+T$XH
+CT$XH
+D$XH;
+T$XH
+CT$XL
+D$hH
+l$8L
+l$HL
+l$PL
+D$8H
+A'H;
+D$8N
+\$PL
+T$PH
+L$8H
+T$xH
+\$xL;
+A'H;
+\$xL
+D$xI
+CD$xA
+l$8L
+l$HL
+L$HL
+L$xH
+l$xH
+D$8H
+CD$8H
+L$XH
+CL$XH
+D$(H
+L$ L
+T$PH
+L$8H
+l$HH
+l$8H
+T$pH
+L$XH
+t$ WAVAWH
+D$PH
+t$(L
+t$ D
+D$(H
+T$ D
+t$0L
+t$@H
+t$0H
+D84/u
+l$HH
+|$0H
+t$@H
+L$0H
+uhM;
+ucI;
+L$0H
+u"I;
+L$PH3
+\$`I
+A_A^_
+D$@H
+T$ H
+CT$ L
+T$8H
+L$ H
+L$@H3
+UVWATAUAVAWH
+L$@E3
+l$pL
+l$pH
+T$p3
+l$PL
+l$`H
+l$PL
+@t/f
+T$pH
+D$PH;
+T$hH
+L$PH
+l$`H
+L$`L
+T$PH
+E H;
+T$PH
+CT$PH
+|$pH
+C|$pH
+t$PH
+Ct$PL
+T$pH
+CT$pH
+T$PH
+CT$PH
+]@E2
+l$(H
+t$ L
+L$@I
+|$pH
+C|$pH
+t$PH
+Ct$PH
+T$pH
+CT$pH
+T$PH
+CT$PH
+]@E2
+t$ L
+L$@I
+T$hH
+L$PH
+l$`H
+T$pH
+CT$pH
+L$pH
+A_A^A]A\_^]
+|$0L
+|$0H
+\$8H
+@82u
+T$`A9r
+L$ D
+L$ A
+\$@H
+t$HH
+\$0H
+D$ H
+D$ H
+D$ H
+D$ H
+l$8H
+\$0H
+\$0H
+t$8H
+\$0H
+D$8H
+p WH
+\$8H
+l$@H
+t$HH
+\$8H
+\$0H
+D$83
+\$0H
+L$@D
+f#D$@H
+L$PD
+L$(L
+D$@H
+L$ H
+DL$@
+fA99}
+\$0H
+T$@t
+D$HH
+D$8L
+D$@A
+D$(H
+L$ A
+L$PD
+L$(L
+D$@H
+DL$@
+D$(H
+\$`H
+l$hH
+t$pH
+t!eH
+uxHc
+uTL+
+\$@H
+t$HH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+D$8H
+D$8H
+D$@H
+@SVWH
+T$`H
+L$hH
+T$`L
+L$0L
+L$pH
+L$(3
+@_^[
+ntelA
+GenuD
+ineI
+t(=`
+t!=p
+ w$H
+T$ H
+D$ "
+D$ $
+\$(3
+t$0H
+L$0L
+L$(H
+L$ 3
+L$PH
+D$PH
+D$@H
+D$H3
+u0HcH<H
+;csm
+\$03
+\$ UH
+M H1E
+ H3E H3E
+\$HH
+\$0H
+\$0H
+D$@H
+x AV
+D8L$0uP
+t$ H
+|$(A^
+L$0t
+L$0A
+x AVH
+T$ H
+T$03
+|$(H
+(t$ H
+(t$ H
+K$E;
+t$@H
+t$8H
+D$0L
+\$`H
+(t$P
+HcE_L
+HcEgH
+D$(I
+D$0H
+D$ H
+H;XXs
+H;xXu5
+\$0H
+p WH
+T$@L
+D$@H
+D$ H
+\$`I
+9csm
+A - 
+t7HcP
+?RCC
+?MOC
+?csm
+\$03
+\$0H
+t$8H
+|$@H
+t$ WH
+T$ H
+D$ H
+|$(L
+L$(H
+\$8H
+D$@D
+\$pH
+t$xH
+ffff
+ffffff
+fffffff
+ob0f
+obpf
+fffff
+t=L;
+ffff
+WATAUAVAWH
+_8M+
+l$0H
+|$8;3
+L$0I
+x}~t
+D$(I
+ tDE3
+\$@I
+A_A^A]A\_
+A	H+
+\$0H
+t$8H
+\$0H
+AUAVAWH
+u	9{
+u4I9}(
+;I9}(tiH
+\$PH
+t$XH
+|$`H
+0A_A^A]
+\$0H
+t$8H
+|$@H
+UVWATAUAVAWH
+L$PI
+|$HH
+|$0L
+l$(H
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+T$xI
+t)IcV
+;csm
+C - 
+;csm
+C - 
+|$xL
+;csm
+C - 
+D$(H
+t$ D
+D$hA
+E E3
+K0HcQ
+D$pHc
+d$dH
+d$dD;d$ltY
+T$xM
+D$XH
+D$PH
+D$@H
+D$8H
+d$0H
+D$(L
+L$hA
+L$h;M
+@tQI
+d$8M
+D$0I
+|$(H
+MpH3
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$pL
+>MOC
+>RCC
+D$pL
+D$xI
+|$8H
+D$0D
+d$(L
+d$(H
+t$ E
+D$`A
+@uIH
+D$pL
+D$xI
+D$HH
+d$@H
+D$8H
+D$(L
+D$hL
+L$`;M
+M(H3
+A_A^A]A\_^[]
+x AVH
+tK9_
+\$0H
+l$8H
+t$@H
+|$HH
+x AVH
+tK9_
+\$0H
+l$8H
+t$@H
+|$HH
+WAVAWH
+9p@u+
+;csm
+t#D9
+t'HcW
+L$PH
+9t$Pu	
+;csm
+C09p
+C0HcH
+L$8M
+L$0I
+L$(H
+D$8M
+D$0H
+D$(H
+A_A^_
+IH9B
+tEHcR
+SVWATAUAWH
+d$ D!
+L!d$(L!d$@D
+D$0H
+D$PL
+D$pH
+D$HL9gXt
+L$@A
+D$(H
+\$(I
+|$8L
+D$@L
+d$ H
+\$(H
+|$8L
+|$0L
+l$HI
+>csm
+F - 
+A_A]A\_^[
+Ic	I
+< u\A
+A A+
+B(I9A(u
+I A+
+\$0H
+SVWATAUAVAWH
+L$pH
+L$`H
+T$xD
+D$hH
+t@HcS
+D$0H
+T$8H
+D$PH
+T$XH
+D$PH
+D$ L
+L$0E
+t$8L;
+L;t$X
+T$8H
+t$8H
+(D$0f
+T$8H
+t$8H
+D$0H
+D$ D
+L$@E
+D$`H
+t$DL
+|$pH
+|$xD
+A_A^A]A\_^[
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+~THc
+T$XL
+\$PA
+l$`H
+t$hH
+ A_A^A]A\_
+9)~P3
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+99~CE
+T$`H
+d$xI
+ A_A^A]A\_^]
+|$`I
+D$ f
+L$ H
+D$ f
+L$ H
+\$@H
+t$HH
+t#eH
+WATAUAVAWH
+Wu-D
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+\$0H
+\$0H
+t$8H
+L$0H
+T$8D
+D$@H
+T$8H
+L$0H
+T$8D
+D$@H
+L$0H
+T$8H
+T$8H
+L$0H
+T$8L
+D$@D
+L$HE
+T$8A
+LcA<E3
+t"H+
+\$0H
+u HcA<H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+L9BHA
+L9BHA
+L9BHA
+@SUH
+D$ L
+@SUH
+8csm
+@SUH
+;csm
+C - 
+bad allocation
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+0123456789abcdefghijklmnopqrstuvwxyz
+					
+0123456789abcdefghijklmnopqrstuvwxyz
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ new
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+hostfxr_main_bundle_startupinfo
+hostfxr_set_error_writer
+hostfxr_main_startupinfo
+hostfxr_main
+Unknown exception
+bad array new length
+string too long
+iostream
+bad cast
+bad locale name
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+invalid string position
+iostream stream error
+vector too long
+invalid stoul argument
+stoul argument out of range
+false
+true
+ntdll.dll
+RtlGetVersion
+74e592c2fa383d4a3960714caef0c4f2
+c3ab8ff13720e8ad9047dd39466b3c89
+RSDS
+D:\a\_work\1\s\artifacts\obj\win-x64.Release\corehost\apphost\standalone\apphost.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gehcont
+.gfids
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.pdata
+_RDATA
+P:Pc
+P08~
+`b0R
+@:pe
+@08~
+P:pe
+P08~
+GetModuleHandleW
+OutputDebugStringW
+FindFirstFileExW
+EnterCriticalSection
+GetFullPathNameW
+FindNextFileW
+GetCurrentProcess
+GetModuleHandleExW
+GetModuleFileNameW
+LeaveCriticalSection
+InitializeCriticalSection
+GetEnvironmentVariableW
+FindClose
+MultiByteToWideChar
+GetLastError
+GetFileAttributesExW
+LoadLibraryA
+GetProcAddress
+DeleteCriticalSection
+WideCharToMultiByte
+IsWow64Process
+LoadLibraryExW
+KERNEL32.dll
+MessageBoxW
+USER32.dll
+ShellExecuteW
+SHELL32.dll
+ReportEventW
+RegisterEventSourceW
+DeregisterEventSource
+RegGetValueW
+RegOpenKeyExW
+RegCloseKey
+ADVAPI32.dll
+_invalid_parameter_noinfo_noreturn
+__acrt_iob_func
+fputwc
+fputws
+free
+fflush
+__stdio_common_vfwprintf
+__stdio_common_vswprintf
+_wfopen
+setvbuf
+toupper
+wcstoul
+_errno
+wcsncmp
+calloc
+strcspn
+__stdio_common_vsprintf_s
+localeconv
+frexp
+_gmtime64_s
+_wtoi
+wcsftime
+_time64
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+GetStringTypeW
+InitializeCriticalSectionEx
+EncodePointer
+DecodePointer
+LCMapStringEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlUnwindEx
+RtlPcToFileHeader
+RaiseException
+SetLastError
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+_lock_locales
+_unlock_locales
+malloc
+setlocale
+__pctype_func
+___lc_locale_name_func
+___lc_codepage_func
+_wcsdup
+___mb_cur_max_func
+abort
+wcsnlen
+_callnewh
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_wide_argv
+_initialize_wide_environment
+_get_initial_wide_environment
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+__p___argc
+__p___wargv
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+terminate
+strcpy_s
+ja 8r{
+d38cc827-e34f-4453-9df4-1e796e9f1d07
+LegitAppNotRansomware.dll
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_exception@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVbad_alloc@std@@
+.?AVsystem_error@std@@
+.?AVbad_cast@std@@
+.?AV_System_error@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AV_Facet_base@std@@
+.?AV_Locimp@locale@std@@
+.?AVfacet@locale@std@@
+.?AU_Crt_new_delete@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$numpunct@_W@std@@
+.?AVtype_info@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+*F(#
+*BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+IEnumerable`1
+Stack`1
+List`1
+get_UTF8
+<Module>
+System.IO
+ProjectData
+System.Collections.Generic
+System.Threading.Thread
+DecodeMe
+EncodeMe
+AddRange
+IDisposable
+System.Console
+get_UserName
+System.Runtime
+ReadLine
+WriteLine
+LegitAppNotRansomware
+Microsoft.VisualBasic.Core
+Dispose
+STAThreadAttribute
+DebuggableAttribute
+AssemblyTitleAttribute
+StandardModuleAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyConfigurationAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+System.Threading
+Encoding
+System.Runtime.Versioning
+FromBase64String
+ToBase64String
+CompareString
+GetString
+Push
+LegitAppNotRansomware.dll
+Program
+System
+Main
+System.Reflection
+Exception
+Sleep
+RootFolder
+FileFilter
+ClearProjectError
+SetProjectError
+GetEnumerator
+.ctor
+.cctor
+System.Diagnostics
+Microsoft.VisualBasic.CompilerServices
+System.Runtime.CompilerServices
+DebuggingModes
+GetDirectories
+SearchForFiles
+GetFiles
+GetBytes
+args
+System.Collections
+Operators
+Concat
+Object
+Environment
+get_Current
+get_Count
+Convert
+input
+MoveNext
+System.Text
+Directory
+WrapNonExceptionThrows
+.NETCoreApp,Version=v6.0
+FrameworkDisplayName
+LegitAppNotRansomware
+Release
+1.0.0.0
+1.0.0
+RSDS
+C:\Users\Nosurf\source\repos\LegitAppNotRansomware\LegitAppNotRansomware\obj\Release\net6.0\win-x64\LegitAppNotRansomware.pdb
+SHA256
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x64": {
+      "LegitAppNotRansomware/1.0.0": {
+        "runtime": {
+          "LegitAppNotRansomware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegitAppNotRansomware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  "runtimeOptions": {
+    "tfm": "net6.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "6.0.0"
+    },
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
+    }
+ Y8yXyT0OxtBhUsa+f_E95jAKq7pxPcU=
+LegitAppNotRansomware.dll
+LegitAppNotRansomware.deps.json
+(LegitAppNotRansomware.runtimeconfig.json
