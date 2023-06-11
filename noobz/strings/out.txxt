@@ -1,0 +1,995 @@
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40489
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%0$s\n'
+[DEBUG] Received 0x15 bytes:
+    b'%0$s\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40489)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40490
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%1$s\n'
+[DEBUG] Received 0x12 bytes:
+    b'\n'
+    b'\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40490)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40491
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%2$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40492
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%3$s\n'
+[DEBUG] Received 0x6 bytes:
+    b'%3$s\n'
+    b'\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40492)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40493
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%4$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40494
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%5$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40494)
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40495
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%6$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40496
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%7$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40496)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40497
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%8$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40497)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40498
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x5 bytes:
+    b'%9$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40498)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40499
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%10$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40499)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40500
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%11$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40500)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40501
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%12$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40501)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40502
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%13$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40502)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40503
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%14$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40503)
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40504
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%15$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40505
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%16$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40505)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40506
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%17$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40506)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40507
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%18$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40507)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40508
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%19$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40509
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%20$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40510
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%21$s\n'
+[DEBUG] Received 0x7 bytes:
+    00000000  89 c7 e8 ff  73 01 0a                               │····│s··│
+    00000007
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40510)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40511
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%22$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40511)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40512
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%23$s\n'
+[DEBUG] Received 0x23 bytes:
+    00000000  f3 0f 1e fa  55 48 89 e5  48 83 ec 70  64 48 8b 04  │····│UH··│H··p│dH··│
+    00000010  25 28 0a 6e  30 30 62 7a  7b 66 34 6b  33 5f 66 6c  │%(·n│00bz│{f4k│3_fl│
+    00000020  34 67 7d                                            │4g}│
+    00000023
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40512)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40513
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%24$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40514
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%25$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  6c 12 a5 a4  fe 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │l···│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40514)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40515
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%26$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  6c d2 bf 2f  fd 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │l··/│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40515)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40516
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%27$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40517
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%28$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40517)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40518
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%29$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  9b f2 f7 83  fe 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │····│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40518)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40519
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%30$s\n'
+[DEBUG] Received 0x14 bytes:
+    00000000  a0 11 40 0a  6e 30 30 62  7a 7b 66 34  6b 33 5f 66  │··@·│n00b│z{f4│k3_f│
+    00000010  6c 34 67 7d                                         │l4g}│
+    00000014
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40519)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40520
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%31$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  e0 82 2f ab  84 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │··/·│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40520)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40521
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%32$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40522
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%33$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40523
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%34$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40523)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40524
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%35$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40525
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%36$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40525)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40526
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%37$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  6c 22 38 ea  fe 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │l"8·│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40526)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40527
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%38$s\n'
+[DEBUG] Received 0x17 bytes:
+    00000000  6c 42 fa d5  ff 7f 0a 6e  30 30 62 7a  7b 66 34 6b  │lB··│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40527)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40528
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%39$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40529
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%40$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40530
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%41$s\n'
+[DEBUG] Received 0x7 bytes:
+    00000000  4c 8b 3d 24  ad 1a 0a                               │L·=$│···│
+    00000007
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40530)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40531
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%42$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40531)
+[DEBUG] Received 0x23 bytes:
+    00000000  f3 0f 1e fa  55 48 89 e5  48 83 ec 70  64 48 8b 04  │····│UH··│H··p│dH··│
+    00000010  25 28 0a 6e  30 30 62 7a  7b 66 34 6b  33 5f 66 6c  │%(·n│00bz│{f4k│3_fl│
+    00000020  34 67 7d                                            │4g}│
+    00000023
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40532
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%43$s\n'
+[DEBUG] Received 0x4 bytes:
+    00000000  a0 11 40 0a                                         │··@·│
+    00000004
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40532)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40533
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%44$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40533)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40534
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%45$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40534)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40535
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%46$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40535)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40536
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%47$s\n'
+[DEBUG] Received 0x2f bytes:
+    00000000  f3 0f 1e fa  31 ed 49 89  d1 5e 48 89  e2 48 83 e4  │····│1·I·│·^H·│·H··│
+    00000010  f0 50 54 45  31 c0 31 c9  48 c7 c7 b3  12 40 0a 6e  │·PTE│1·1·│H···│·@·n│
+    00000020  30 30 62 7a  7b 66 34 6b  33 5f 66 6c  34 67 7d     │00bz│{f4k│3_fl│4g}│
+    0000002f
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40536)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40537
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%48$s\n'
+[DEBUG] Received 0x12 bytes:
+    00000000  01 0a 6e 30  30 62 7a 7b  66 34 6b 33  5f 66 6c 34  │··n0│0bz{│f4k3│_fl4│
+    00000010  67 7d                                               │g}│
+    00000012
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40537)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40538
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%49$s\n'
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40538)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40539
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%50$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40539)
+[DEBUG] Received 0x17 bytes:
+    b'(null)\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40540
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%51$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40540)
+[DEBUG] Received 0x17 bytes:
+    00000000  f4 66 2e 0f  1f 84 0a 6e  30 30 62 7a  7b 66 34 6b  │·f.·│···n│00bz│{f4k│
+    00000010  33 5f 66 6c  34 67 7d                               │3_fl│4g}│
+    00000017
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40541
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%52$s\n'
+[DEBUG] Received 0x12 bytes:
+    b'8\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40541)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40542
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%53$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40543
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%54$s\n'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40544
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%55$s\n'
+[DEBUG] Received 0x3f bytes:
+    b'/home/kali/Documents/CTF/noobz/strings/strings\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40544)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40545
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%56$s\n'
+[DEBUG] Received 0x7 bytes:
+    b'(null)\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40545)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40546
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%57$s\n'
+[DEBUG] Received 0xf bytes:
+    b'COLORFGBG=15;0\n'
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40548
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%58$s\n'
+[DEBUG] Received 0x24 bytes:
+    b'COLORTERM=truecolor\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40548)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40556
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%59$s\n'
+[DEBUG] Received 0x33 bytes:
+    b'COMMAND_NOT_FOUND_INSTALL_PROMPT=1\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40556)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40557
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%60$s\n'
+[DEBUG] Received 0x46 bytes:
+    b'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40557)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40558
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%61$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40558)
+[DEBUG] Received 0x31 bytes:
+    b'DESKTOP_SESSION=lightdm-xsession\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40559
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%62$s\n'
+[DEBUG] Received 0xd bytes:
+    b'DISPLAY=:0.0\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40559)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40560
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%63$s\n'
+[DEBUG] Received 0x2e bytes:
+    b'DOTNET_CLI_TELEMETRY_OPTOUT=1\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40560)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40561
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%64$s\n'
+[DEBUG] Received 0x2c bytes:
+    b'GDMSESSION=lightdm-xsession\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40561)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40562
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%65$s\n'
+[DEBUG] Received 0x2c bytes:
+    b'GTK_MODULES=gail:atk-bridge\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40562)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40563
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%66$s\n'
+[DEBUG] Received 0x20 bytes:
+    b'HOME=/home/kali\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40563)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40564
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%67$s\n'
+[DEBUG] Received 0x21 bytes:
+    b'LANG=en_US.UTF-8\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40564)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40565
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%68$s\n'
+[DEBUG] Received 0x1a bytes:
+    b'LANGUAGE=\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40565)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40566
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%69$s\n'
+[DEBUG] Received 0x1d bytes:
+    b'LOGNAME=kali\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40566)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40567
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%70$s\n'
+[DEBUG] Received 0x2f bytes:
+    b'PANEL_GDK_CORE_DEVICE_EVENTS=0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40567)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40568
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%71$s\n'
+[DEBUG] Received 0x6e bytes:
+    b'PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40568)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40569
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%72$s\n'
+[DEBUG] Received 0x2e bytes:
+    b'POWERSHELL_TELEMETRY_OPTOUT=1\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40569)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40570
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%73$s\n'
+[DEBUG] Received 0x2b bytes:
+    b'POWERSHELL_UPDATECHECK=Off\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40570)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40571
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%74$s\n'
+[DEBUG] Received 0x3b bytes:
+    b'PWD=/home/kali/Documents/CTF/noobz/strings\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40571)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40572
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%75$s\n'
+[DEBUG] Received 0x23 bytes:
+    b'QT_ACCESSIBILITY=1\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40572)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40573
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%76$s\n'
+[DEBUG] Received 0x2e bytes:
+    b'QT_AUTO_SCREEN_SCALE_FACTOR=0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40573)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40574
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%77$s\n'
+[DEBUG] Received 0x2b bytes:
+    b'QT_QPA_PLATFORMTHEME=qt5ct\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40574)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40575
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%78$s\n'
+[DEBUG] Received 0x5e bytes:
+    b'SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/1202,unix/kali:/tmp/.ICE-unix/1202\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40575)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40576
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%79$s\n'
+[DEBUG] Received 0x23 bytes:
+    b'SHELL=/usr/bin/zsh\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40576)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40577
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%80$s\n'
+[DEBUG] Received 0x23 bytes:
+    b'SSH_AGENT_PID=1268\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40577)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40578
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%81$s\n'
+[DEBUG] Received 0x3f bytes:
+    b'SSH_AUTH_SOCK=/tmp/ssh-XXXXXXzLXIXr/agent.1202\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40578)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40579
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%82$s\n'
+[DEBUG] Received 0x14 bytes:
+    b'TERM=xterm-256color\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40579)
+[DEBUG] Received 0x10 bytes:
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40580
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%83$s\n'
+[DEBUG] Received 0x1a bytes:
+    b'USER=kali\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40580)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40581
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%84$s\n'
+[DEBUG] Received 0x1b bytes:
+    b'WINDOWID=0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40581)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40582
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%85$s\n'
+[DEBUG] Received 0x32 bytes:
+    b'XAUTHORITY=/home/kali/.Xauthority\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40582)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40583
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%86$s\n'
+[DEBUG] Received 0x29 bytes:
+    b'XDG_CONFIG_DIRS=/etc/xdg\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40583)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40584
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%87$s\n'
+[DEBUG] Received 0x29 bytes:
+    b'XDG_CURRENT_DESKTOP=XFCE\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40584)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40585
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%88$s\n'
+[DEBUG] Received 0x58 bytes:
+    b'XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/:/usr/share\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40585)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40586
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%89$s\n'
+[DEBUG] Received 0x40 bytes:
+    b'XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40586)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40587
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%90$s\n'
+[DEBUG] Received 0x26 bytes:
+    b'XDG_MENU_PREFIX=xfce-\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40587)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40588
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%91$s\n'
+[DEBUG] Received 0x2f bytes:
+    b'XDG_RUNTIME_DIR=/run/user/1000\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40588)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40589
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%92$s\n'
+[DEBUG] Received 0x1f bytes:
+    b'XDG_SEAT=seat0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40589)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40590
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%93$s\n'
+[DEBUG] Received 0x44 bytes:
+    b'XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40590)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40591
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%94$s\n'
+[DEBUG] Received 0x27 bytes:
+    b'XDG_SESSION_CLASS=user\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40591)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40592
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%95$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40592)
+[DEBUG] Received 0x35 bytes:
+    b'XDG_SESSION_DESKTOP=lightdm-xsession\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40593
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%96$s\n'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40593)
+[DEBUG] Received 0x21 bytes:
+    b'XDG_SESSION_ID=3\n'
+    b'n00bz{f4k3_fl4g}'
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40594
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%97$s\n'
+[DEBUG] Received 0x4a bytes:
+    b'XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40594)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40595
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%98$s\n'
+[DEBUG] Received 0x25 bytes:
+    b'XDG_SESSION_TYPE=x11\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40595)
+[x] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings'
+[+] Starting local process '/home/kali/Documents/CTF/noobz/strings/strings': pid 40596
+[DEBUG] Received 0x16 bytes:
+    b'Do you love strings? \n'
+[DEBUG] Sent 0x6 bytes:
+    b'%99$s\n'
+[DEBUG] Received 0x1b bytes:
+    b'XDG_VTNR=7\n'
+    b'n00bz{f4k3_fl4g}'
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40596)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40546)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40543)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40542)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40529)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40528)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40524)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40522)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40521)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40516)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40513)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40509)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40508)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code 0 (pid 40504)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40495)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40493)
+[*] Process '/home/kali/Documents/CTF/noobz/strings/strings' stopped with exit code -11 (SIGSEGV) (pid 40491)
