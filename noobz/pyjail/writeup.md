@@ -37,7 +37,7 @@ import pty; pty.spawn("/bin/sh")
 `del blacklist` : Delete's the blacklist.
 
 `eₓec(input())` : Invokes an input so that i can re-assign an empty blacklist[] array , If i dont re-assign the array the for loop will break as the blacklist variable will not be there,
-                  and as you can see the 'ₓ' in eₓec is not a standard x its a diffrent latin-unicode character but python interprets it as 'x' , This is too bypass the the blacklist of 'x' and 'exec'.
+                  and as you can see the 'ₓ' in eₓec is not a standard x its a different latin-unicode character but python interprets it as 'x' , This is too bypass the the blacklist of 'x' and 'exec'.
                   
 `import pty;pty.spawn("/bin/sh")` : Now that the blacklist[] array is empty we can use a standard python one-liner shell command.
 
