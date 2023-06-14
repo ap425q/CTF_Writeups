@@ -85,7 +85,7 @@ Before we can run the `pwn1` binary, we need to make it executable. We can do th
 
 To determine the offset required to overwrite the return address, we can use pattern generation and debugging with GDB. In the terminal, we execute `gdb ./pwn1` to start debugging the binary. Within the GDB environment, we use the command `pattern create 100` to generate a pattern of length 100.
 
-We then run the binary with the generated pattern as input. The binary crashes, indicating that the pattern has been successfully written to memory. We examine the value of the program counter (EIP) by running the command `info registers` in GDB. The offset can be determined by identifying the position of the pattern in memory.
+We then run the binary with the generated pattern as input. The binary crashes, indicating that the pattern has been successfully written to memory. We examine the value of the program counter (RIP) by running the command `info registers` in GDB. The offset can be determined by identifying the position of the pattern in memory.
 The Final Exploit:
 
 ```py
