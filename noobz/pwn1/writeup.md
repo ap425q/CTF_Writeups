@@ -81,10 +81,13 @@ Symbol table '.symtab' contains 42 entries:
 
 Before we can run the `pwn1` binary, we need to make it executable. We can do this by running the command `chmod +x pwn1`. This grants execute permissions to the binary, allowing us to run it.
 
-## Step 4: Setting Up the Exploit Script
+## Step 4: Finding the Offset
 
-To automate the exploitation process, we'll use the `pwntools` library. We start by importing the necessary modules and setting up the exploit environment in our Python script. The script defines the target server and port, as well as the path to the "pwn1" binary on the local machine.
-Here is the Final Exploit Script:
+To determine the offset required to overwrite the return address, we can use pattern generation and debugging with GDB. In the terminal, we execute `gdb ./pwn1` to start debugging the binary. Within the GDB environment, we use the command `pattern create 100` to generate a pattern of length 100.
+
+We then run the binary with the generated pattern as input. The binary crashes, indicating that the pattern has been successfully written to memory. We examine the value of the program counter (EIP) by running the command `info registers` in GDB. The offset can be determined by identifying the position of the pattern in memory.
+The Final Exploit:
+
 ```py
 #!usr/bin/env/python3
 
@@ -112,30 +115,34 @@ p.recvline()
 p.sendline(payload)
 p.interactive()
 ```
-## Step 5: Analyzing the Binary
+
+## Step 5: Setting Up the Exploit Script
+
+To automate the exploitation process, we'll use the `pwntools` library. We start by importing the necessary modules and setting up the exploit environment in our Python script. The script defines the target server and port, as well as the path to the "pwn1" binary on the local machine.
+
+## Step 6: Analyzing the Binary
 
 Before exploiting the binary, it's important to understand its structure and identify any vulnerabilities. We can use the `pwn` module's `ELF` class to extract information about the binary. By loading the "pwn1" binary into an `ELF` object, we gain access to various attributes, such as symbols and addresses.
 
-## Step 6: Preparing the Payload
+## Step 7: Preparing the Payload
 
 The next step is to construct the payload that will trigger the vulnerability in the binary. In this case, the vulnerability is a buffer overflow. The payload consists of two parts: garbage data and the target address to overwrite the return address. We calculate the address of the "win" function using `elf.symbols['win']` and pack it into a little-endian representation using `p64()`.
 
-## Step 7: Connecting to the Remote Server
+## Step 8: Connecting to the Remote Server
 
 With our payload ready, we establish a connection to the remote server using the `remote(server, port)` function from `pwntools`. This allows us to communicate with the binary running on the server. We assume that the binary is already running and waiting for input.
 
-## Step 8: Exploiting the Binary
+## Step 9: Exploiting the Binary
 
 Once the connection is established, we interact with the binary. We receive the initial prompt from the binary using `p.recvline()` to clear the initial output. Then, we send our payload to the binary using `p.sendline(payload)`. This triggers the buffer overflow and overwrites the return address with the address of the "win" function.
 
-## Step 9: Gaining Remote Shell Access
+## Step 10: Gaining Remote Shell Access
 
 After sending the payload, we call `p.interactive()` to gain interactive access to the remote shell. This allows us to interact with the shell as if we were directly connected to it. At this point, we have successfully exploited the binary and gained a remote shell.
 
 ## Conclusion
 
-In this writeup, we walked through the process of solving the "Pwn1" binary exploitation challenge. We checked the file type of the `pwn1` binary using the `file` command and explained the output. We then used the `readelf` command to examine the symbols in the binary, looking for the presence of the `win` function. We made the binary executable with `chmod +x` and continued with the Python script for exploitation. By analyzing the binary, identifying the vulnerability, and constructing a payload, we successfully exploited the binary and gained a remote shell. Binary exploitation challenges like this one require a solid understanding of memory management, assembly, and vulnerability analysis, making them an exciting and challenging field in cybersecurity.
-
+In this writeup, we walked through the process of solving the "Pwn1" binary exploitation challenge. We checked the file type of the `pwn1` binary using the `file` command and explained the output. We then used the `readelf` command to examine the symbols in the binary, looking for the presence of the `win` function. We made the binary executable with `chmod +x` and continued with the Python script for exploitation. By analyzing the binary, identifying the vulnerability, determining the offset using pattern generation and GDB, and constructing a payload, we successfully exploited the binary and gained a remote shell. Binary exploitation challenges like this one require a solid understanding of memory management, assembly, and vulnerability analysis, making them an exciting and challenging field in cybersecurity.
 
 
 
