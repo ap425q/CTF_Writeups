@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Jun 19 21:16:28 2023
+Invocation: foremost out.data 
+Output directory: /home/ap425q/Documents/CTF/Nahamcon2023/web/hidden_figures/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: out.data
+Start: Mon Jun 19 21:16:28 2023
+Length: 37 KB (38866 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      15 KB 	          0 	 
+1:	00000030.png 	      22 KB 	      15486 	  (1851 x 174)
+Finish: Mon Jun 19 21:16:28 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Jun 19 21:16:28 2023
