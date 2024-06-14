@@ -1,0 +1,84 @@
+__int64 __fastcall hiddenMarvelStringAlgorithm(__int64 a1)
+{
+  __int64 result; // rax
+  int i; // [rsp+1Ch] [rbp-4h]
+
+  for ( i = 0; ; ++i )
+  {
+    result = *(unsigned __int8 *)(i + a1);
+    if ( !(_BYTE)result )
+      break;
+    if ( strchr("aeiouAEIOU", *(char *)(i + a1)) )
+      *(_BYTE *)(i + a1) = 42;
+  }
+  return result;
+}
+
+__int64 __fastcall dynamicMarvelStringAnalysis(const char *a1)
+{
+  __int64 result; // rax
+  int i; // [rsp+18h] [rbp-8h]
+  int j; // [rsp+1Ch] [rbp-4h]
+
+  if ( strlen(a1) <= 0xA )
+  {
+    for ( i = 0; ; ++i )
+    {
+      result = (unsigned __int8)a1[i];
+      if ( !(_BYTE)result )
+        break;
+      a1[i] = tolower(a1[i]);
+    }
+  }
+  else
+  {
+    for ( j = 0; ; ++j )
+    {
+      result = (unsigned __int8)a1[j];
+      if ( !(_BYTE)result )
+        break;
+      a1[j] = toupper(a1[j]);
+    }
+  }
+  return result;
+}
+
+__int64 __fastcall customMarvelStringManipulation(__int64 a1)
+{
+  __int64 result; // rax
+  int i; // [rsp+14h] [rbp-4h]
+
+  for ( i = 0; ; ++i )
+  {
+    result = *(unsigned __int8 *)(i + a1);
+    if ( !(_BYTE)result )
+      break;
+    if ( *(_BYTE *)(i + a1) == ' ' )
+      *(_BYTE *)(i + a1) = '_';
+  }
+  return result;
+}
+
+char *__fastcall additionalMarvelComplexity(const char *a1)
+{
+  char *result; // rax
+
+  result = (char *)&a1[strlen(a1)];
+  strcpy(result, "_Marvel2023");
+  return result;
+}
+
+size_t __fastcall maskString(const char *a1)
+{
+  size_t result; // rax
+  int i; // [rsp+1Ch] [rbp-14h]
+
+  for ( i = 0; ; i += 2 )
+  {
+    result = strlen(a1);
+    if ( i >= result )
+      break;
+    a1[i] = 36;
+  }
+  return result;
+}
