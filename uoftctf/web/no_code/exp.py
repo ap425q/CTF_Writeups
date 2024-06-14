@@ -5,6 +5,6 @@ import requests
 url = 'https://uoftctf-no-code.chals.io/execute'
 
 
-req = requests.post(url,data = {'code': ''})
+req = requests.post(url,data = {'code': '\n ls'})
 
 print(req.text)
